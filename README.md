@@ -1,1 +1,7 @@
-# odin-recipes
+# The Odin Project
+
+## Goals
+
+* Learn JS
+* Learn TS
+* Learn Vue.JS
