@@ -5,3 +5,4 @@
 * Learn JS
 * Learn TS
 * Learn Vue.JS
+* Learn NuxtUI
