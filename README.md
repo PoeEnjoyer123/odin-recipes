@@ -1,8 +1,7 @@
-# The Odin Project
+# The Odin Project - Recipe
 
-## Goals
+## Recipe included
 
-* Learn JS
-* Learn TS
-* Learn Vue.JS
-* Learn NuxtUI
+- Taco Casserole
+- Neiman Marcus Cake
+- Braised Beef
